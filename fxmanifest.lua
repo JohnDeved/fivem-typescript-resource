@@ -1,6 +1,6 @@
 -- Resource Metadata
-fx_version 'cerulean'
-games { 'gta5' }
+fx_version 'bodacious'
+game 'gta5'
 
 author 'John Doe <j.doe@example.com>'
 description 'Example resource'
