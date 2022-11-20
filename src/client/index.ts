@@ -1,3 +1,3 @@
 import { test } from "./test";
 
-Citizen.trace('Hello World from client', test().toString())
+Citizen.trace('new Hello World from client', test().toString())

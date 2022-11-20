@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "yarn && ts-node esbuild.ts",
-    "watch": "yarn && ts-node esbuild.ts watch"
+    "build": "ts-node esbuild.ts",
+    "watch": "ts-node esbuild.ts watch"
   },
   "author": "",
   "license": "ISC",
